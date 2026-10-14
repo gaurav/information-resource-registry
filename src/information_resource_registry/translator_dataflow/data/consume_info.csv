@@ -120,6 +120,7 @@ infores:biothings-suppkg,infores:service-provider-trapi,1
 infores:biothings-ttd,infores:service-provider-trapi,1
 infores:biothings-uberon-ontology,infores:service-provider-trapi,1
 infores:bspo,infores:rtx-kg2,1
+infores:canada-vigilance,infores:drugapprovals-kp,1
 infores:catrax-pharmacogenomics,infores:aragorn,1
 infores:catrax-pharmacogenomics,infores:arax,1
 infores:catrax-pharmacogenomics,infores:service-provider-trapi,1
@@ -197,7 +198,9 @@ infores:ebi-proteins,infores:service-provider-trapi,1
 infores:ebi-quick-go,infores:service-provider-trapi,1
 infores:efo,infores:rtx-kg2,1
 infores:ehdaa2,infores:rtx-kg2,1
+infores:ema,infores:drugapprovals-kp,1
 infores:ensembl-gene,infores:rtx-kg2,1
+infores:epar,infores:drugapprovals-kp,1
 infores:faers,infores:drugapprovals-kp,1
 infores:fda-orphan-drug-db,infores:mychem-info,1
 infores:fma-obo,infores:rtx-kg2,1

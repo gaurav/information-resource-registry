@@ -120,7 +120,6 @@
   "infores:connections-hypothesis": [],
   "infores:cqs": [],
   "infores:ctd": [],
-  "infores:drugapprovals-kp": [],
   "infores:ebi-proteins": [
     "infores:uniprot"
   ],
@@ -134,10 +133,11 @@
   "infores:litvar": [
     "infores:dbsnp"
   ],
-  "infores:microbiome-kp": [],
   "infores:molepro": [],
   "infores:monarchinitiative": [],
-  "infores:multiomics-kp": [],
+  "infores:multiomics-drugapprovals": [],
+  "infores:multiomics-microbiome": [],
+  "infores:multiomics-multiomics": [],
   "infores:mychem-info": [
     "infores:chebi",
     "infores:chembl",
